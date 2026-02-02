@@ -1,6 +1,7 @@
-📦 UPDATE: BYPASS AUTORUN V.2 
+📦 UPDATE: BYPASS AUTORUN V.1 
 
-Update kali ini fokus pada stabilitas tingkat tinggi dan Universal Compatibility. Script sudah dioptimasi untuk menembus proteksi agresif pada MIUI/HyperOS dan OneUI.
+Ini hanyalah script biasa untuk menjalankan bypass pubg menggunakan "NoRoot Firewall". Bagi kalian yang menggunakan app itu untuk melakukan bypass di PUBG dan malas harus membuka dan menutup aplikasi kalian. Ini script yang cocok untuk anda, semoga membantu.
+Saya juga menambahkan script untuk membersihkan cache dan kill app "NoRoot Firewall" dan app "PUBG" yang masih berjalan di latar belakang.Terimakasih 
 
 📂 File Name: bypass_autorun_v.2.zip
 🛠 Status: STABLE & TESTED
